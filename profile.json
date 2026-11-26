@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "login": "imp3lv",
+  "seed": "#C33046",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "projects"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "imp3lv",
+    "subtitle": "I work on various small projects for myself",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Kiyv"
+      },
+      {
+        "icon": "code",
+        "label": "Rust · Python"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer"
+      },
+      {
+        "icon": "accessibility_new",
+        "label": "17 y.o"
+      },
+      {
+        "icon": "palette",
+        "label": "Loving m3e design"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "I’m learning...",
+        "items": [
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          }
+        ]
+      },
+      {
+        "title": "My tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:vscodium",
+            "label": "VSCodium"
+          },
+          {
+            "icon": "brand:unity",
+            "label": "Unity"
+          }
+        ]
+      },
+      {
+        "title": "ENVIRONMENT",
+        "items": [
+          {
+            "icon": "brand:cachyos",
+            "label": "CachyOS"
+          },
+          {
+            "icon": "brand:hyprland",
+            "label": "Hyprland"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [
+      "pixel-garden",
+      "tiny-weather",
+      "echo-bot",
+      "dotfiles"
+    ],
+    "overrides": {
+      "pixel-garden": {}
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/eluioma"
+      },
+      {
+        "icon": "brand:tiktok",
+        "url": "https://tiktok.com/@eluioma"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/reynh1ikk"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/eluioma?tab=repositories",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}
